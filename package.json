@@ -1,0 +1,23 @@
+{
+  "name": "chainlink-data-feeds",
+  "version": "1.0.0",
+  "description": "Going through Chainlink docs on data feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbvegan/chainlink-data-feeds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbvegan/chainlink-data-feeds/issues"
+  },
+  "homepage": "https://github.com/sbvegan/chainlink-data-feeds#readme",
+  "dependencies": {
+    "ethers": "^5.5.1"
+  }
+}
